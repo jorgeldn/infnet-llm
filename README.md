@@ -1,7 +1,7 @@
 ## Projeto da Disciplina: IA generativa para linguagem (LLM) [25E2_3]
 
 
-# 🖥️ Assistente de Montagem de PC com IA
+## 🖥️ Assistente de Montagem de PC com IA
 
 Este projeto é um aplicativo interativo desenvolvido com **Streamlit**, **LangChain** e **LLMs da Groq**, com o objetivo de auxiliar usuários a obter recomendações personalizadas de hardware para montagem de computadores, com base em seu propósito de uso (como jogar, estudar, editar vídeos, entre outros).
 
