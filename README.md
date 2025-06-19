@@ -1,12 +1,10 @@
 ## Projeto da Disciplina: IA generativa para linguagem (LLM) [25E2_3]
 
 
----
 # 🖥️ Assistente de Montagem de PC com IA
 
 Este projeto é um aplicativo interativo desenvolvido com **Streamlit**, **LangChain** e **LLMs da Groq**, com o objetivo de auxiliar usuários a obter recomendações personalizadas de hardware para montagem de computadores, com base em seu propósito de uso (como jogar, estudar, editar vídeos, entre outros).
 
----
 
 ## 📌 Objetivos do Projeto
 
@@ -15,7 +13,6 @@ Este projeto é um aplicativo interativo desenvolvido com **Streamlit**, **LangC
 - Fornecer uma **previsão de preço total** e **links de compra** em sites confiáveis no Brasil (ex: Kabum, Terabyte, Amazon BR).
 - Aplicar conceitos de engenharia de prompt e agentes inteligentes em uma aplicação de fácil uso via navegador.
 
----
 
 ## 💡 Como Funciona
 
@@ -26,7 +23,6 @@ Este projeto é um aplicativo interativo desenvolvido com **Streamlit**, **LangC
    - Estimativa de preço total
    - Links sugeridos para compra no Brasil
 
----
 
 ## 🧱 Tecnologias Utilizadas
 
@@ -35,7 +31,6 @@ Este projeto é um aplicativo interativo desenvolvido com **Streamlit**, **LangC
 - [Groq + Mixtral](https://console.groq.com/) — como backend LLM via `langchain_groq`
 - Python 3.10+
 
----
 
 ## ▶️ Como Executar o Projeto
 
@@ -80,7 +75,6 @@ streamlit run app.py
 
 Acesse `http://localhost:8501` no navegador.
 
----
 
 ## 📷 Exemplo de Uso
 
@@ -104,7 +98,6 @@ Resposta da IA:
 - Links: www.kabum.com.br/produto1, www.amazon.com.br/produto2...
 ```
 
----
 
 ## 👨‍💻 Autor
 
