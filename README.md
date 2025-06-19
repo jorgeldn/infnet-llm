@@ -28,7 +28,7 @@ Este projeto é um aplicativo interativo desenvolvido com **Streamlit**, **LangC
 
 - [Streamlit](https://streamlit.io/) — para criação da interface web
 - [LangChain](https://www.langchain.com/) — para orquestração de prompts e agentes LLM
-- [Groq + Mixtral](https://console.groq.com/) — como backend LLM via `langchain_groq`
+- [Groq + Llama](https://console.groq.com/) — como backend LLM via `langchain_groq`
 - Python 3.10+
 
 
