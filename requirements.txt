@@ -1,0 +1,8 @@
+langchain < 0.99
+langchain-community>=0.0.21
+langchain-groq
+groq
+streamlit < 1.33.99
+pandas
+dotenv
+python-dotenv>=1.0.1
